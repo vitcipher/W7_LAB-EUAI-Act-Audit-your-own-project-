@@ -11,7 +11,7 @@ blind window the way the lab intends — I had already seen his conclusions by t
 tier down. What I can say is that Part 2 was reasoned from the system's own facts and the regulation,
 not copied from his findings, and the areas where we converge are because the facts are genuinely
 clean (a transactional bot, not a person-scoring one), not because I deferred to him. Full reasoning
-in [`02-risk-tier-classification.md`](02-risk-tier-classification.md).
+in [`02-risk-tier-classification_EU AI Act.md`](02-risk-tier-classification_EU%20AI%20Act.md).
 
 ---
 
