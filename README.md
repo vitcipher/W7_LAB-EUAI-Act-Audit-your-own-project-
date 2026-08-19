@@ -16,7 +16,7 @@ alone (no self-audit shared with him in advance, per the paired lab's ground rul
 | [03-role-map.md](03-role-map.md) | Phase 3 — provider/deployer/vendor roles and their obligations |
 | [04-gap-analysis-remediation.md](04-gap-analysis-remediation.md) | Phase 5 — six gaps (Article 50, Article 4, and parallel GDPR/operational issues), each with a remediation step |
 | [05-compliance-memo.md](05-compliance-memo.md) | Phase 6 — one-page memo to a fictional Head of Product |
-| [06-debrief-exchange-with-ugo.md](06-debrief-exchange-with-ugo.md) | Debrief — my answers to Ugo's clarifying questions, my independent tier/findings, my response to his report, and a draft joint closing note |
+| [06-debrief-exchange-with-ugo_EUAI Act.md](06-debrief-exchange-with-ugo_EUAI%20Act.md) | Debrief — my answers to Ugo's clarifying questions, my independent tier/findings, my response to his report, and a draft joint closing note |
 | [from-ugo/From_Ugo-eu-ai-act-peer-audit-whizbiz.md](from-ugo/From_Ugo-eu-ai-act-peer-audit-whizbiz.md) | Ugo's full independent external audit of Whizbiz, received as debrief input |
 | [from-ugo/From_Ugo-exchange-with-vittal-ai-act-BLANK.md](from-ugo/From_Ugo-exchange-with-vittal-ai-act-BLANK.md) | The blank exchange template as Ugo sent it, kept for traceability alongside my completed version |
 
@@ -30,5 +30,5 @@ and [04-gap-analysis-remediation.md](04-gap-analysis-remediation.md).
 
 **Note on process:** my peer auditor's full report and the debrief exchange request arrived together,
 rather than after my self-audit was finished — see the process note at the top of
-[06-debrief-exchange-with-ugo.md](06-debrief-exchange-with-ugo.md) for how that's handled honestly
+[06-debrief-exchange-with-ugo_EUAI Act.md](06-debrief-exchange-with-ugo_EUAI%20Act.md) for how that's handled honestly
 rather than papered over.
